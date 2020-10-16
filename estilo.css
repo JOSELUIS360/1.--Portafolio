@@ -1,0 +1,44 @@
+#inicio{
+     border: solid 1px #DCA59C;
+     padding: 5px;
+     margin:0 auto;
+     width: 85%;
+     background: #F08F7F;
+     
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend{
+
+    border: solid 1px #E49382:
+    padding: 5px:
+    fon-weight: bold;
+    background: #F6F0EF;
+    border-radius:15px;
+}
+
+#img1{
+border:solid 2px;
+margin: 10px;
+
+}
+
+body{
+    font-family:Monaco,Georgia,Times,serif;
+    background: url(IMG/fondo.jpg);
+ 
+   
+}
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+ 
+    
+    
+        }
